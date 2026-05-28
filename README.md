@@ -14,9 +14,11 @@ A simple command-line To-Do List application built using Python.
 - File Handling
 
 ## ▶️ How to Run
-
 ```bash
 python todo.py
+
+
+
 What I Learned
 Python basics
 Functions and loops
